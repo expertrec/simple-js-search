@@ -1,1 +1,1 @@
-# simple-js-search
+# Simple JS Search
