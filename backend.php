@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * Filename: backend.php
+ * Project: simple-js-search
+ * Description: Backend that does data query from database using like function
+ * for the simple-js-search plugin.
+ */
+
 if ( ! $_GET['q'] ){
     return ;
 }
